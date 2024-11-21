@@ -1,0 +1,47 @@
+body{
+    color: black;
+  background-image: url(layouts/abas/ceu-estrelado9.png);
+  
+  
+}
+nav{
+  margin: 60px -23px 0px;
+  padding: 16px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-image: url(layouts/Novo\ Projeto.png);
+  top: 0;
+  width: 100%;
+  position: fixed; 
+    
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+.texto{
+  color: black;
+  background-color: azure;
+  margin-left: 200px;
+  margin-right:200px;
+  
+}
+
+
